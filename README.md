@@ -9,5 +9,6 @@ The purpose of the dataset is to diagnostically predict whether a patient has di
 NumPy is a library for Python programming language, intended to manipulate matrices or multidimensional arrays as well as mathematical functions operating on these arrays.
 ![1280px-NumPy_logo_2020 svg](https://user-images.githubusercontent.com/72892818/153497415-075e5d80-4e02-41c1-bd4f-35c68efb8839.png)
 ### 2.Matplotlib
-Matplotlib is a Python programming language library for plotting and visualizing data in the form of graphs. It can be combined with the scientific computing python libraries NumPy and SciPy.
+Matplotlib is a Python programming language library for plotting and visualizing data in the form of graphs. It can be combined with the scientific computing python libraries
+NumPy and SciPy.
 ![download](https://user-images.githubusercontent.com/72892818/153498327-e0ab052e-0066-44c5-8fc2-ea530a99fc9e.png)
