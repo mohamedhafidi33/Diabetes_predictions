@@ -12,3 +12,5 @@ NumPy is a library for Python programming language, intended to manipulate matri
 Matplotlib is a Python programming language library for plotting and visualizing data in the form of graphs. It can be combined with the scientific computing python libraries
 NumPy and SciPy.
 ![download](https://user-images.githubusercontent.com/72892818/153498327-e0ab052e-0066-44c5-8fc2-ea530a99fc9e.png)
+## 4.Display
+<img width="751" alt="Interface" src="https://user-images.githubusercontent.com/72892818/153502381-bae2a28e-4985-4bf2-bf5f-c5a9e136909c.PNG">
