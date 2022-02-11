@@ -12,5 +12,11 @@ NumPy is a library for Python programming language, intended to manipulate matri
 Matplotlib is a Python programming language library for plotting and visualizing data in the form of graphs. It can be combined with the scientific computing python libraries
 NumPy and SciPy.
 ![download](https://user-images.githubusercontent.com/72892818/153498327-e0ab052e-0066-44c5-8fc2-ea530a99fc9e.png)
+### 3.
+### 4.Pandas
+Pandas is a library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating
+numerical arrays and time series. Pandas is free software under the BSD license.
+![1200px-Pandas_logo svg](https://user-images.githubusercontent.com/72892818/153603374-df742754-b9ee-405e-aa74-cedde6f8147f.png)
+
 ## 4.Display
 <img width="751" alt="Interface" src="https://user-images.githubusercontent.com/72892818/153502381-bae2a28e-4985-4bf2-bf5f-c5a9e136909c.PNG">
