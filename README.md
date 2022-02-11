@@ -8,11 +8,19 @@ The purpose of the dataset is to diagnostically predict whether a patient has di
 ### 1.Numpy
 NumPy is a library for Python programming language, intended to manipulate matrices or multidimensional arrays as well as mathematical functions operating on these arrays.
 ![1280px-NumPy_logo_2020 svg](https://user-images.githubusercontent.com/72892818/153497415-075e5d80-4e02-41c1-bd4f-35c68efb8839.png)
+
 ### 2.Matplotlib
 Matplotlib is a Python programming language library for plotting and visualizing data in the form of graphs. It can be combined with the scientific computing python libraries
 NumPy and SciPy.
 ![download](https://user-images.githubusercontent.com/72892818/153498327-e0ab052e-0066-44c5-8fc2-ea530a99fc9e.png)
-### 3.
+
+### 3.Scikit-learn
+Scikit-learn is a free Python library for machine learning. It is developed by many contributors, particularly in the academic world by French higher education and research institutes such as Inria.
+
+It offers in its framework many libraries of algorithms to implement, turnkey. These libraries are available to data scientists in particular.
+
+It notably includes functions for estimating random forests, logistic regressions, classification algorithms, and support vector machines. It is designed to harmonize with other free Python libraries, including NumPy and SciPy.
+
 ### 4.Pandas
 Pandas is a library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating
 numerical arrays and time series. Pandas is free software under the BSD license.
