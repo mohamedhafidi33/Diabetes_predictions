@@ -20,6 +20,7 @@ Scikit-learn is a free Python library for machine learning. It is developed by m
 It offers in its framework many libraries of algorithms to implement, turnkey. These libraries are available to data scientists in particular.
 
 It notably includes functions for estimating random forests, logistic regressions, classification algorithms, and support vector machines. It is designed to harmonize with other free Python libraries, including NumPy and SciPy.
+![1200px-Scikit_learn_logo_small svg](https://user-images.githubusercontent.com/72892818/153604258-97298433-4b09-48d7-bae4-d22b036fcfa4.png)
 
 ### 4.Pandas
 Pandas is a library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating
