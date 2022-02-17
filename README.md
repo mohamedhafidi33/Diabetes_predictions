@@ -28,8 +28,9 @@ numerical arrays and time series. Pandas is free software under the BSD license.
 ![1200px-Pandas_logo svg](https://user-images.githubusercontent.com/72892818/153603374-df742754-b9ee-405e-aa74-cedde6f8147f.png)
 
 ## 4.Display
-main gui
+#### Main gui
 <img width="751" alt="Interface" src="https://user-images.githubusercontent.com/72892818/153502381-bae2a28e-4985-4bf2-bf5f-c5a9e136909c.PNG">
-
+#### Non diabetic person
 <img width="746" alt="res" src="https://user-images.githubusercontent.com/72892818/154455973-64f7ced6-e724-4088-9088-fda768e92436.PNG">
+#### Diabetic person
 <img width="747" alt="res1" src="https://user-images.githubusercontent.com/72892818/154456014-fce9a340-5ab3-483e-8037-2c6abb298db7.PNG">
